@@ -6,13 +6,13 @@
 
 function button1(){
     const i = document.getElementById("img");
-    i.src = "img1.jpg"
+    i.src = "Images/img1.jpg"
 }
 function button2(){
     const i = document.getElementById("img");
-    i.src = "img2.jpg"
+    i.src = "Images/img2.jpg"
 }
 function button3(){
     const i = document.getElementById("img");
-    i.src = "img3.jpg"
+    i.src = "Images/img3.jpg"
 }
